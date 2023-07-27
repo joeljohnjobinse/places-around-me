@@ -8,17 +8,17 @@ To develop a website to display details about the places around my house.
 
 ### Step 2: In 'static', create another folder 'html', under which the file 'index.html' should be created.
 
-### Step 2: Go to Google Mpas and take a screenshot of your home on it along with some places around it.
+### Step 3: Go to Google Mpas and take a screenshot of your home on it along with some places around it.
 
-### Step 2: Go to Image-Maps.com and mark 5 locations on it using the shapes used in Maps.
+### Step 4: Go to Image-Maps.com and mark 5 locations on it using the shapes used in Maps.
 
-### Step 2: Copy the html code for the map and add it to 'index.html'
+### Step 5: Copy the html code for the map and add it to 'index.html'
 
-### Step 2: Create the html documents to be displayed when clicked on the location in the image map.
+### Step 6: Create the html documents to be displayed when clicked on the location in the image map.
 
-### Step 2: Take screenshots of the output.
+### Step 7: Take screenshots of the output.
 
-### Step 2: Push it to 'README.md' and push it to the repository
+### Step 8: Push it to 'README.md' and push it to the repository
 
 ## Code:
 ### index.html:
